@@ -28,12 +28,12 @@ The overall project is called Delphor Cortextual, and it is broken into sub-proj
 
 The Project Vision Describes four components of CortextualOpen, each of which is designed to be a standalone project:
 
-+ Delphor/Sense
-+ Delphor/Ingest
-+ Delphor/Enrich
-+ Delphor/Viz
++ Delphor/Sense [Repo](https://github.com/delphornet/Sense) and project [Roadmap](http://www.delphor.net/#!sense/hlpq9)
++ Delphor/Ingest [Repo](https://github.com/delphornet/Ingest) and project [Roadmap](http://www.delphor.net/#!ingest/topnc)
++ Delphor/Enrich [Repo](https://github.com/delphornet/Enrich) and project [Roadmap](http://www.delphor.net/#!enrich/pb82z)
++ Delphor/Viz [Repo](https://github.com/delphornet/Viz) and project [Roadmap](http://www.delphor.net/#!visualize/v6diw)
 
-More information is available on the [Project Vision](http://www.delphor.net/#!cortextual-open/c6kj) page of the Delphor website.  For detailed information on the Project Roadmap, please visit the Project Roadmap page of the [Delphor Git Wiki.](https://github.com/BKThrottlebody/DelphoTest/wiki)
+More information is available on the [Project Vision](http://www.delphor.net/#!cortextual-open/c6kj) page of the Delphor website.  For detailed information on the Project Roadmap, please visit the Project Roadmap page of the [Delphor Git Wiki.](https://github.com/delphornet/Cortextual/wiki)
 
 # Release History #
 
